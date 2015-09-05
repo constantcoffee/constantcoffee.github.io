@@ -3,10 +3,10 @@
   <channel>
     <title>write.constant.coffee</title>
     <description>Writing portion of constant.coffee.</description>
-    <link>http://constantcoffee.github.io/write/</link>
-    <atom:link href="http://constantcoffee.github.io/write/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Sep 2015 15:21:11 -0700</pubDate>
-    <lastBuildDate>Sat, 05 Sep 2015 15:21:11 -0700</lastBuildDate>
+    <link>http://constantcoffee.github.io/</link>
+    <atom:link href="http://constantcoffee.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 05 Sep 2015 16:13:44 -0700</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2015 16:13:44 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;This is the blog section of my site, &lt;a href=&quot;http://constant.coffee&quot;&gt;constant.coffee&lt;/a&gt;. Let’s see what the musings will be.&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Sep 2015 06:21:00 -0700</pubDate>
-        <link>http://constantcoffee.github.io/write/test/2015/09/05/test-post.html</link>
-        <guid isPermaLink="true">http://constantcoffee.github.io/write/test/2015/09/05/test-post.html</guid>
+        <link>http://constantcoffee.github.io/test/2015/09/05/test-post.html</link>
+        <guid isPermaLink="true">http://constantcoffee.github.io/test/2015/09/05/test-post.html</guid>
         
         
         <category>test</category>
@@ -40,8 +40,8 @@
 
 </description>
         <pubDate>Fri, 04 Sep 2015 19:09:29 -0700</pubDate>
-        <link>http://constantcoffee.github.io/write/jekyll/update/2015/09/04/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://constantcoffee.github.io/write/jekyll/update/2015/09/04/welcome-to-jekyll.html</guid>
+        <link>http://constantcoffee.github.io/jekyll/update/2015/09/04/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://constantcoffee.github.io/jekyll/update/2015/09/04/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
