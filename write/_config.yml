@@ -2,7 +2,7 @@
 title: write.constant.coffee
 email: raihan@constant.coffee
 description: Writing portion of constant.coffee.
-baseurl: "/write" # the subpath of your site, e.g. /blog/
+baseurl: "/write/" # the subpath of your site, e.g. /blog/
 url: "http://constantcoffee.github.io" # the base hostname & protocol for your site
 twitter_username: raihan_
 github_username:  constantcoffee
