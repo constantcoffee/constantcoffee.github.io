@@ -10,6 +10,8 @@ Here's a quick list of stuff that I've picked up for choosing the right booking 
 ## Before you have an agent:
 * **You can't just be good in the studio.**
 * Make sure you can play to a decent sized crowd, from a performance standpoint
+	* ### This is a million times more important than anything you could ever do on social media.
+	    * Lay off the social media unless you want to make shirts, photos or anything _but_ music.
     * practice, practice, practice.
     * be comfortable on stage.
     * give people a show, not a gear circle jerk (unless that's your audience, at which point I'll STFU).
