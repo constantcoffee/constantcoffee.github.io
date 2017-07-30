@@ -13,6 +13,7 @@ Here's a quick list of stuff that I've picked up for choosing the right booking 
     * practice, practice, practice.
     * be comfortable on stage.
     * give people a show, not a gear circle jerk (unless that's your audience, at which point I'll STFU).
+    * Please, for the love of God, *relax with the backing tracks*
 * Can handle your rudimentary finances (i.e. avoid “pay to play” gigs, really think of your cost-benefit for a gig)
 * Have some handle on your merch situation (which is a _whole other story_, but please start somewhere!)
 
