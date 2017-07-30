@@ -25,6 +25,8 @@ Here's a quick list of stuff that I've picked up for choosing the right booking 
 * Make creative/smart suggestions for gigs that you’ll play.
     * ...ideally backed up by data to ensure financial success
     * If a potential booking agent doesn't ask you for a "gig audit", *dump them*
+* Make sure that you're evolving in your career.
+   * You don't want to be the backpack rapper/producer who keeps playing the same 4-5 local gigs over and over. If you are, that's the agent's fault logistically and your fault for literally everything else.
 * Check in with you and your team to have a strong short/medium-term outlook for touring and how that fits into your financial picture
 * Know to how cut deals that are in your favor (versus deals, multiple-show deals etc)
 * Keep an eye out for creative/cost-effective suggestions in the live sphere (you/your team should be leading this discussion, imo; but the agent shouldn’t be dumb)
