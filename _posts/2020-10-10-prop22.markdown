@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Some thoughts on Prop 22, the amendment that will destroy workers' rights"
+date:   2020-10-10 21:42:03
+categories: politics
+---
+# Some thoughts on Prop 22.
+
+## Intro / Acknowledgements
+_(Boring disclaimer: Personal opinion, not tied to any of my myriad employers or employment. This is clearly a piece intended to influence how you vote, but I'm writing it in a personal capacity. And I've already voted sooo [shrug emoji])_
+
+Thanks to Tim Maughan, whose short story [Zero Hours](https://medium.com/@timmaughan/zero-hours-f68f17e8c12a "Zero Hours by Tim Maughan") (written in 2013!) deeply and profoundly influenced my personal views towards the relationship between tech and the people it purports to serve. And a thanks to every author I've linked to here!
+
+A special shoutout to everyone grinding it out in the streets, the comment sections and dinner table.
+
+## What's Prop 22?
+"Proposition 22 classifies app-based drivers as independent contractors"[^1]. Simple language that belies a profoundly bad idea. The act aims to bolster the current status quo where companies are not responsible for their workers. Drivers are still responsible for their own insurance, own income taxes... and then they're on their own if (at best) someone throws up in their car or (at worse) a driver doesn't make it home after their gig.
+
+## Why is this a bad idea, in the medium and long term?
+
+I'd like to lead with an example here. In 2018, Wal-Mart was under fire for giving workers their schedules merely 2 1/2 weeks in advance. I understand that in a world that adopts to tech, having "flexibility" is great - but not knowing if you're expected to work 7a-3p, 3p-10p or 2p-10p would be difficult under normal times -- but under a pandemic, it's downright cruel. In pre-COVID times, I'd hear similar stories where people would leave dinner with their kids, or interrupt a movie with their wife, just because there was a "hotspot" on their app of choice. 
+
+For those of us with "nicer" jobs, it's not a stretch to think of all those evenings when Slack takes up the time you're spending with your family.
+
+Without getting too specific in the realm of "ridesharing," I have to ask: is the the world we want for our fellow folks, just so we can "quickly" get a ride or pay a [91% premium](https://www.nytimes.com/2020/02/26/technology/personaltech/ubereats-doordash-postmates-grubhub-review.html) just so we don't have to leave home for a burger?
+
+That leads into my next point as a small business owner.
+
+## Prop 22 would harm, not help, small businesses!
+
+In my own neighborhood of Koreatown, I have watched [legendary restaurant](https://stories.zagat.com/posts/6-chefs-on-the-closing-of-iconic-la-restaurant-beverly-soon-tofu) after legendary restaurant shutter due to COVID. When I think of these classic, family-driven spots, I think of the difficult decisions each business owner had to make when it came to adapting their experience, their dishes and their delivery -- do they pack a scorching hot _soondubu_ into a plastic container, or partner with the large app juggernauts, or [try something different](https://www.nytimes.com/2020/08/31/dining/los-angeles-food-delivery-runningman.html)? I think of how so many of them can continue to operate because of their "family first" mentality, something that is stripped by the strictly transactional nature of ridesharing and delivery apps. I know some of the change is inevitable, but some rails should be put into place for steady, stable growth, rather than a bill that provides fewer health care, unemployment and payment rights for those who choose to drive, whether they are driving an old car, or were duped by an auto-loan program that some have likened to ["indentured servitude"](https://thebolditalic.com/ubers-auto-loan-program-is-basically-indentured-servitude-78011b8ea9b2).
+
+## What about my friend who drives "on the side"?
+
+When I pull back and think of my favorite coffee shops and other small biz around town, I know the best ones can afford to pay their workers: ideally this is both with actual, hard cash AND the sense of a superlative goal. 
+
+This question stings the most for me. Even for my own business, I have lost excellent employees because I couldn't compete with the (at the time) high signing and referral bonuses of these VC-backed companies. My employees saw dollar signs and they left. I don't blame them one bit. But when they come back months later saying "my hours got cut," or "I need another gig"... it truly does sting, because the rules are always changing, but *never in the workers' favor*. While capitalism is ultimately a train running off the tracks, government intervention and unions have given ALL workers certain inalienable rights... and that's something we should strive for, by taking away these corporations' blank checks and replacing them with a true peoples' choice.
+
+## Tech isn't the answer, people are...
+
+# So vote no on Prop 22.
+
+[^1]: via [Ballotpedia](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_(2020))
